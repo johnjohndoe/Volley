@@ -57,5 +57,16 @@ allprojects {
 ```
 
 
+## JavaDoc and sources
+
+The build script includes tasks to generate JavaDoc and sources archives. The tasks are executed automatically when the library is installed into the local Maven repository. The archives can be found in the same folder as the library itself:
+
+```bash
+~/.m2/repository/com/android/volley/1.0.0/volley-1.0.0-javadoc.jar
+~/.m2/repository/com/android/volley/1.0.0/volley-1.0.0-sources.jar
+```
+
+
+
 [google-io-2013-volley]: https://www.youtube.com/watch?v=yhv8l9F44qo
 [google-repository]: https://android.googlesource.com/platform/frameworks/volley/
