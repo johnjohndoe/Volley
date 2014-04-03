@@ -71,6 +71,7 @@ The build script includes tasks to generate JavaDoc and sources archives. The ta
 
 * [Comparison of Android Networking Libraries: OkHTTP, Retrofit, Volley][compare-networking-libs]
 * [Volley Android Networking Library][volley-networking-lib]
+* [Solving the Android image loading problem: Volley vs. Picasso][volley-networking-lib]
 
 
 
@@ -78,3 +79,4 @@ The build script includes tasks to generate JavaDoc and sources archives. The ta
 [google-repository]: https://android.googlesource.com/platform/frameworks/volley/
 [compare-networking-libs]: http://stackoverflow.com/questions/16902716/comparison-of-android-networking-libraries-okhttp-retrofit-volley
 [volley-networking-lib]: http://stackoverflow.com/questions/16659620/volley-android-networking-library
+[volley-vs-picasso]: http://blog.bignerdranch.com/3177-solving-the-android-image-loading-problem-volley-vs-picasso/
