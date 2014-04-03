@@ -67,6 +67,14 @@ The build script includes tasks to generate JavaDoc and sources archives. The ta
 ```
 
 
+## More about
+
+* [Comparison of Android Networking Libraries: OkHTTP, Retrofit, Volley][compare-networking-libs]
+* [Volley Android Networking Library][volley-networking-lib]
+
+
 
 [google-io-2013-volley]: https://www.youtube.com/watch?v=yhv8l9F44qo
 [google-repository]: https://android.googlesource.com/platform/frameworks/volley/
+[compare-networking-libs]: http://stackoverflow.com/questions/16902716/comparison-of-android-networking-libraries-okhttp-retrofit-volley
+[volley-networking-lib]: http://stackoverflow.com/questions/16659620/volley-android-networking-library
